@@ -22,4 +22,4 @@ Further down the line, I've got other ideas. I'm not thrilled with how the keypa
 ### Known Issues
 - When snooze is on, the alarm on light should flash to distinguish it from the normal alarm. It doesn't because I haven't told it to yet. This will change.
 - I haven't figured out how to read the current alarm time from the DS3231 registers. I implemented a temporary fix so everything still works, but I would like to solve this.
-- The brightness of the seven-segment displays is a little inconsistent. Not a huge deal, but esspecially if I want to start varying the brightness, fixing this would be nice. Not entirely sure it's possible though.
+- The brightness of the seven-segment displays is a little inconsistent. Not a huge deal, but fixing this would be nice. Not entirely sure it's possible though.
