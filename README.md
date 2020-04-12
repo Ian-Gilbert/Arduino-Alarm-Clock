@@ -1,7 +1,12 @@
 # Arduino Alarm Clock
+<style>
+.rotate270 {
+    transform: rotate(270deg);
+}
+</style>
 
 <p align="center">
-	<img src="pictures/IMG_0099" width=50%></img>
+	<img src="pictures/IMG_0099.png" width=50% class="rotate270"></img>
 </p>
 
 This was a project that I started for a physics class in college, but I've since updated things. The goal was to create a project using the [Elegoo Most Complete Starter Kit](https://www.elegoo.com/product/elegoo-mega-2560-project-the-most-complete-starter-kit/) (originally we used the UNO, but I upgraded to the MEGA 2560 for the extra ports). The alarm clock has 12/24 hour time modes, and an alarm that can be set, viewed, turned on/off, stopped, and snoozed.
@@ -20,7 +25,7 @@ This was a project that I started for a physics class in college, but I've since
 - [Kaypad](https://www.arduinolibraries.info/libraries/keypad)
 
 ## Things To Come
-A lot, actually. In the immediate future, I'll add photos and stuff. When I originally did the project in school, I wrote a couple technical papers describing how the clock works, but with all the changes I've made since then, it's very out of date. I will be fixing that and adding it to the project shortly, along with instructions on how to set it all up.
+When I originally did the project in school, I wrote a couple technical papers describing how the clock works, but with all the changes I've made since then, it's very out of date. I will be fixing that and adding it to the project shortly, along with instructions on how to set it all up.
 
 Further down the line, I've got other ideas. I'm not thrilled with how the keypad turned out, from a UX perspective, so I'm considering replacing it with standard buttons, kind of like your average alarm clock. This might also make the project a little more accessible to people with an Arduino UNO.
 
