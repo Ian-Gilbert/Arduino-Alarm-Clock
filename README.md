@@ -6,7 +6,7 @@
 </style>
 
 <p align="center">
-	<img src="pictures/IMG_0099.png" width=50% class="rotate270"></img>
+	<img src="pictures/IMG_0099.png" width=50%></img>
 </p>
 
 This was a project that I started for a physics class in college, but I've since updated things. The goal was to create a project using the [Elegoo Most Complete Starter Kit](https://www.elegoo.com/product/elegoo-mega-2560-project-the-most-complete-starter-kit/) (originally we used the UNO, but I upgraded to the MEGA 2560 for the extra ports). The alarm clock has 12/24 hour time modes, and an alarm that can be set, viewed, turned on/off, stopped, and snoozed.
