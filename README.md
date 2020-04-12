@@ -1,9 +1,4 @@
 # Arduino Alarm Clock
-<style>
-.rotate270 {
-    transform: rotate(270deg);
-}
-</style>
 
 <p align="center">
 	<img src="pictures/IMG_0099.png" width=50%></img>
